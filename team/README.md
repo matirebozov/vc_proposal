@@ -2,8 +2,8 @@
 
 ### Blas Rodriguez Irizar
 
-Blas is the Founder and Managing Director of (Atakama IVS)[http://atakama.io],
-a Fintech Startup based in Copenhagen Denmark. Blas has worked as a Software
+Blas is the Founder and Managing Director of [Atakama IVS](http://atakama.io),
+a Fintech startup based in Copenhagen Denmark. Blas has worked as a Software
 Engineer for the aviation industry and for a research center. He has worked for
 Shell Argentina, and has been a professor in different courses for the
 University of El Salvador in Argentina and the University of Benito Juarez in
@@ -26,3 +26,5 @@ and defines a rating for their debt issuances and for their fund issuances.
 
 Matias holds a Bachelor in Economics from the University of Buenos Aires, and a
 Master's in Economics Finance from the University of Amsterdam.
+
+## Advisors

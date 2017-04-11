@@ -3,8 +3,9 @@
 ### Table of Contents
 
 1. [Markets](#markets)
-2. [Investment Criteria](#investment-criteria)
-3. [Stage and Ticket Size](#stage-and-ticket-size)
+2. [Industries](#industries)
+3. [Team](#team)
+4. [Stage and Ticket Size](#stage-and-ticket-size)
 
 ### Markets
 
@@ -23,9 +24,24 @@ Venezuela are part of our scope. The region of South America shares many
 interesting features that make it very attractive and yet has a large room to
 grow.
 
-### Investment Criteria
+### Industries
 
-To be defined.
+To be considered as an eligible candidate, a company needs to have a defined
+plan in an industry where:
+
++ The team has proven expertise
++ There are advantages in starting up a business from where the company is
+based
++ Large international untapped market
+
+### Team
+
++ Diversity
++ Commitment
++ Passion
++ Technical Knowledge
++ Context awareness
++ Internationally minded
 
 ### Stage and tickets size
 
