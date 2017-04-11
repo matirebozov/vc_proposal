@@ -3,9 +3,8 @@
 ### Table of Contents
 
 1. [Markets](#markets)
-2. [Stage](#stage)
-3. [Industries](#industries)
-4. [Ticket Size](#ticket-size)
+2. [Investment Criteria](#investment-criteria)
+3. [Stage and Ticket Size](#stage-and-ticket-size)
 
 ### Markets
 
@@ -24,9 +23,29 @@ Venezuela are part of our scope. The region of South America shares many
 interesting features that make it very attractive and yet has a large room to
 grow.
 
+### Investment Criteria
 
-### Stage
+To be defined.
 
-### Industries
+### Stage and tickets size
 
-### Ticket size
+Identifying high-value opportunities in early stages has a very big advantage:
+the big potential and therefore extremely high yield of a company that can
+become several times what it is today.
+
+Nevertheless, there are more risks associated in the earlier stages as well.
+Neither the market or the team has been fully proved and this means that it
+might be possible that the path towards profitability is never reached.
+
+These two opposed forces make investors to choose where to put themselves based
+on their risk appetite but also on their capabilities and strengths to help
+companies to reduce the threats and find a quick and steady way of becoming
+profitable.
+
+In the search of leveraging our own capabilities, while not taking undesired
+levels of risk we have decided to place ourselves in a Seed to Serie A rounds.
+This means that the `Fund` will be having a range of tickets based on the
+potential of a certain company, and its stage on the journey.
+
+Typically, the `Fund` intends to invest no less than **250,000 USD** on a Seed
+round, and up to **1,000,000 USD** on a Serie A Round
