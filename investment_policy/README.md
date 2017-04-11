@@ -43,11 +43,11 @@ based
 + Context awareness
 + Internationally minded
 
-### Stage and tickets size
+### Stage and ticket size
 
 Identifying high-value opportunities in early stages has a very big advantage:
-the big potential and therefore extremely high yield of a company that can
-become several times what it is today.
+Its big potential can yield a large return on investment that can result in
+a big factor of what it was initially invested.
 
 Nevertheless, there are more risks associated in the earlier stages as well.
 Neither the market or the team has been fully proved and this means that it
